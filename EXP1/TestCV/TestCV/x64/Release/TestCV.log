@@ -1,0 +1,9 @@
+﻿  main.cpp
+main.obj : error LNK2001: 无法解析的外部符号 cvWaitKey
+main.obj : error LNK2001: 无法解析的外部符号 cvReleaseImage
+main.obj : error LNK2001: 无法解析的外部符号 cvLoadImage
+main.obj : error LNK2001: 无法解析的外部符号 cvDestroyWindow
+main.obj : error LNK2001: 无法解析的外部符号 cvShowImage
+main.obj : error LNK2001: 无法解析的外部符号 cvNamedWindow
+main.obj : error LNK2001: 无法解析的外部符号 "private: void __cdecl cv::String::deallocate(void)" (?deallocate@String@cv@@AEAAXXZ)
+F:\Workspaces\OpenCV\TestCV\x64\Release\TestCV.exe : fatal error LNK1120: 7 个无法解析的外部命令

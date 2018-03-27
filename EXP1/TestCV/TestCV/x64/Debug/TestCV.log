@@ -1,0 +1,5 @@
+﻿  main.cpp
+f:\workspaces\opencv\testcv\testcv\freeimage.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspaces\opencv\testcv\testcv\main.cpp(99): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+  TestCV.vcxproj -> F:\Workspaces\OpenCV\TestCV\x64\Debug\TestCV.exe
+  TestCV.vcxproj -> F:\Workspaces\OpenCV\TestCV\x64\Debug\TestCV.pdb (Full PDB)

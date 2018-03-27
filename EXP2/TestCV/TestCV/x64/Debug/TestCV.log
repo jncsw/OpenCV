@@ -1,0 +1,18 @@
+﻿  源1.cpp
+  main.cpp
+f:\workspaces\opencv\testcv\testcv\main.cpp(198): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\workspaces\opencv\testcv\testcv\main.cpp(199): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\workspaces\opencv\testcv\testcv\main.cpp(201): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\workspaces\opencv\testcv\testcv\main.cpp(202): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\workspaces\opencv\testcv\testcv\main.cpp(205): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+f:\workspaces\opencv\testcv\testcv\main.cpp(216): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\workspaces\opencv\testcv\testcv\main.cpp(217): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\workspaces\opencv\testcv\testcv\main.cpp(230): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\workspaces\opencv\testcv\testcv\main.cpp(231): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\workspaces\opencv\testcv\testcv\main.cpp(233): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\workspaces\opencv\testcv\testcv\main.cpp(234): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\workspaces\opencv\testcv\testcv\main.cpp(239): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+f:\workspaces\opencv\testcv\testcv\main.cpp(286): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  TestCV.vcxproj -> F:\Workspaces\OpenCV\TestCV\x64\Debug\TestCV.exe
+  TestCV.vcxproj -> F:\Workspaces\OpenCV\TestCV\x64\Debug\TestCV.pdb (Full PDB)
